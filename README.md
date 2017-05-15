@@ -8,8 +8,8 @@ demo：https://luna.fancylog.net/add-search-fn-to-your-ghost-blog/
 **If performance is an issue, you should probably remove the "markdown" field from the index.**
 
 #Updated
-- Added the option to search through static pages.
-- Added onPageLoad option to improve onKeyUp option thanks to @cjsheets.
+- Search posts in posts list from API
+- Added Chinese pinyin supported
 
 #ToDo
 ~~- Restrict the number of fields being queried from the API.~~
